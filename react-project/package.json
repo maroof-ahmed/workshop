@@ -1,0 +1,17 @@
+{
+    "name": "mav-react-project",
+    "version": "1.0.0",
+    "description": "Mav React Project",
+    "main": "webapp.js",
+    "directories": {
+        "example": "examples"
+    },
+    "scripts": {
+        "test": ""
+    },
+    "author": "Maroof Ahmed",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.14.0"
+    }
+}

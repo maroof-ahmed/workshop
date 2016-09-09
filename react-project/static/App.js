@@ -1,0 +1,1 @@
+ReactDOM.render(<h1>Im here!</h1>, document.getElementById('mav'));
